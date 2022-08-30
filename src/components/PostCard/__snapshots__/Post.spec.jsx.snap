@@ -11,9 +11,11 @@ exports[`<PostCard /> should match snapshot 1`] = `
   <div
     class="post-content"
   >
-    <h1>
+    <h2>
       title 1
-    </h1>
+       
+      1
+    </h2>
     <p>
       body 1
     </p>
